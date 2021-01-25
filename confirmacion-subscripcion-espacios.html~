@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>Aumenta tus reservas de salas con SpacesON Pro | SpacesON</title>
+
+  <meta charset="utf-8">
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="SpacesON ayuda los espacios de Coworking, centros de negocios, hoteles a aumentar sus reservas de salas">
+  
+  <!-- Google Fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700' rel='stylesheet'>
+
+  <!-- Css -->
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/font-icons.css" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+
+</head>
+
+<body>
+
+  <!-- Preloader -->
+  <div class="loader-mask">
+    <div class="loader">
+      "Loading..."
+    </div>
+  </div>
+
+  <main class="main-wrapper">
+
+    <!-- Navigation -->
+    <header class="nav">
+      <div class="nav__holder nav--sticky">
+        <div class="container-fluid container-semi-fluid nav__container">
+          <div class="flex-parent">
+
+            <div class="nav__header">
+              <!-- Logo -->
+              <a href="#" class="logo-container flex-child">
+                <img class="logo" src="img/logo.png" srcset="img/logo.png 1x, img/logo@2x.png 2x" alt="logo">
+              </a>
+
+              <!-- Mobile toggle -->
+              <button type="button" class="nav__icon-toggle" id="nav__icon-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="nav__icon-toggle-bar"></span>
+                <span class="nav__icon-toggle-bar"></span>
+                <span class="nav__icon-toggle-bar"></span>
+              </button> 
+            </div>                      
+
+            <!-- Navbar -->
+            <nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
+
+            </nav> <!-- end nav-wrap -->
+
+            <div class="nav__btn-holder nav--align-right">
+              <a href="#" class="btn nav__btn">
+                <span class="nav__btn-text">Publicar tus espacios</span>
+                
+              </a>
+            </div>     
+        
+          </div> <!-- end flex-parent -->
+        </div> <!-- end container -->
+
+      </div>
+    </header> <!-- end navigation -->
+
+    <div class="content-wrapper oh">
+
+      <!-- Page Title -->
+      <section class="page-title text-center">
+        <div class="container">
+          <div class="page-title__holder">
+            <h1 class="page-title__title">¡Muchas gracias por subscribirte a SpacesON!</h1>
+            <p class="page-title__subtitle">En breve se activará tu cuenta en SpacesON</p>
+          </div>
+        </div>
+      </section> <!-- end page title -->
+      
+       
+      
+            <!-- Promo Section -->
+      <section class="section-wrap promo-section bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 align-self-center">
+              <h2 class="promo-section__title">¿Varias ubicaciones? ¿Cadena de hoteles, centros de negocio o coworking?</h2>
+              <p class="promo-section__text lead">Ofrecemos soluciones de estrategias de marketing online a medida a partir de 399€/mes+IVA. No dudes en pedirnos presupuesto.</p>
+              <a href="mailto:soporte@spaces-on.com" class="btn btn--lg btn--color btn--icon">
+                <span>Pedir presupuesto</span>
+                <i class="ui-arrow-right"></i>
+              </a>
+            </div>
+          </div>
+        </div> 
+      </section> <!-- end promo section -->
+      
+     <!-- Faq -->
+      <section class="section-wrap">
+        <div class="container">
+          <div class="title-row text-center">
+            <h2 class="section-title">Preguntas frecuentes</h2>
+          </div>
+          <div class="row">
+
+            <div class="col-md-6">
+              <div class="faq">
+                <h4 class="faq__title">¿Puedo cancelar la suscripción en cualquier momento?</h4>
+                <p class="faq__text">Sí, usamos un programa que permite automatizar las suscripciones y añadir o bajar de nivel en cualquier momento</p>
+              </div>
+
+              <div class="faq">
+                <h4 class="faq__title">¿Puedo ver cómo funciona SpacesON por dentro?</h4>
+                <p class="faq__text">Sí, organizamos webinars de forma habitual. Para ver próximas sesiones, mira el calendario.</p>
+              </div>
+
+              <div class="faq">
+                <h4 class="faq__title">¿Qué tipo de pagos se aceptan?</h4>
+                <p class="faq__text">Aceptamos tarjeta bancaria, Paypal o domiciliación bancaria. </p>
+              </div>
+            </div>
+
+
+
+          <div class="text-center lead mt-48">
+            <span>¿Alguna otra pregunta? <a href="mailto:soporte@spaces-on.com">soporte@spaces-on.com</a></span>
+          </div>
+
+        </div>
+      </section> <!-- end faq --> 
+      
+
+
+
+
+      <!-- Service Boxes -->
+      <section class="section-wrap pb-72">
+        <div class="container">
+
+          <div class="title-row title-row--boxed text-center">
+            <h2 class="section-title">¿Porqué promocionar tus espacios en SpacesON?</h2>
+            <p class="subtitle">Te ayudamos a mejorar la visibilidad de tus alquileres de salas.</p>
+          </div>          
+
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="feature text-center">
+                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#deadline-1"></use></svg>
+                <h4 class="feature__title">Directorio líder en España</h4>
+                <p class="feature__text">Somos el nº1 en motores de búsqueda y más de 8.000 usuarios encuentran sus salas en SpacesON a diario</p>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="feature text-center">
+                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#medal-1"></use></svg>
+                <h4 class="feature__title">Sistema completo de gestión de peticiones de información y reservas</h4>
+                <p class="feature__text">Tus clientes y potenciales clientes podrán pedir información acerca de tus salas y reservarlas de forma 100% automatizada.</p>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="feature text-center">
+                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#social-1"></use></svg>
+                <h4 class="feature__title">Tienes el control</h4>
+                <p class="feature__text">NO cobramos comisión ni influimos en tus precios. Tienes el contacto directo y los clientes te pagan directamente. Tu espacio, TUS REGLAS.</p>
+              </div>
+            </div>
+            
+          </div>
+        </div>        
+      </section> <!-- end service boxes -->
+
+ 
+
+      <!-- Footer -->
+      <footer class="footer">
+        <div class="container">
+          <div class="footer__widgets">
+            <div class="row">
+
+              <div class="col-lg-6 col-md-6">
+                <div class="widget widget-about-us">
+                  <!-- Logo -->
+                  <a href="index.html" class="logo-container flex-child">
+                    <img class="logo" src="img/logo.png" srcset="img/logo.png 1x, img/logo@2x.png 2x" alt="logo">
+                  </a>
+                  <p class="mt-24 mb-32">Promocionamos tus salas.</p>
+                  <div class="socials">
+                    <a href="https://twitter.com/spaces_on" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a>
+                   </div>
+                </div>
+              </div> <!-- end about us -->
+
+
+              <div class="col-lg-6 col-md-6">
+                <div class="widget widget-address">
+                  <h5 class="widget-title">Coworking ON International SL</h5>
+                  <ul>
+                    <li><address>C/ Raimundo Fernandez Villaverde 34, 28003 Madrid</address></li>
+                    <li>
+                      <span>Email: </span>
+                      <a href="mailto:soporte@spaces-on.com">mailto:soporte@spaces-on.com</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>           
+
+            </div>
+          </div>    
+        </div> <!-- end container -->
+
+        <div class="footer__bottom top-divider">
+          <div class="container text-center">
+            <span class="copyright">
+              &copy; 2019 Coworking ON International SL
+            </span>
+          </div>
+        </div> <!-- end footer bottom -->
+      </footer> <!-- end footer -->
+
+      <div id="back-to-top">
+        <a href="#top"><i class="ui-arrow-up"></i></a>
+      </div>
+
+    </div> <!-- end content wrapper -->
+  </main> <!-- end main wrapper -->
+  
+
+  <!-- jQuery Scripts -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/scripts.js"></script>
+
+  <!-- Cookies -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+  <script src="js/cookies.js"></script>
+  
+</body>
+</html>
